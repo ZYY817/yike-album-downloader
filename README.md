@@ -1,4 +1,7 @@
 # 一刻相册批量下载工具
+![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)
 
 一键下载百度一刻相册的所有照片和视频到本地，支持原画质、断点续传、并发下载。
 
@@ -138,5 +141,7 @@ yike-album/
 ## 🤝 贡献
 
 欢迎提交Issue和Pull Request！
+
+
 
 
